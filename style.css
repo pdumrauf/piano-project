@@ -83,3 +83,19 @@ body {
 .black-key:nth-child(23) {
   left: 890px;
 }
+
+.white-key:hover {
+  background-color: lightgray;
+}
+
+.white-key:active {
+  background-color: lightgoldenrodyellow;
+}
+
+.black-key:hover {
+  background-color: lightgray;
+}
+
+.black-key:active {
+  background-color: lightgoldenrodyellow;
+}
