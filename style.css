@@ -44,42 +44,42 @@ body {
   border: solid #000 2px;
 }
 
-.black-key:nth-child(1) {
-  left: 48px;
-}
-
 .black-key:nth-child(2) {
-  left: 120px;
-}
-
-.black-key:nth-child(3) {
-  left: 260px;
+  left: 50px;
 }
 
 .black-key:nth-child(4) {
-  left: 330px;
-}
-
-.black-key:nth-child(5) {
-  left: 400px;
-}
-
-.black-key:nth-child(6) {
-  left: 540px;
+  left: 120px;
 }
 
 .black-key:nth-child(7) {
-  left: 610px;
-}
-
-.black-key:nth-child(8) {
-  left: 680px;
+  left: 260px;
 }
 
 .black-key:nth-child(9) {
+  left: 330px;
+}
+
+.black-key:nth-child(11) {
+  left: 400px;
+}
+
+.black-key:nth-child(14) {
+  left: 540px;
+}
+
+.black-key:nth-child(16) {
+  left: 610px;
+}
+
+.black-key:nth-child(18) {
+  left: 680px;
+}
+
+.black-key:nth-child(21) {
   left: 820px;
 }
 
-.black-key:nth-child(10) {
+.black-key:nth-child(23) {
   left: 890px;
 }
